@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-10.0.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/opencv"/>
+	<classpathentry kind="lib" path="C:/Users/Supratik basu/Desktop/Tess4J-3.4.8-src/Tess4J/dist/tess4j-3.4.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Supratik basu/Desktop/Tess4J-3.4.8-src/Tess4J/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Supratik basu/Desktop/Tess4J-3.4.8-src/Tess4J/lib/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Supratik basu/Desktop/Tess4J-3.4.8-src/Tess4J/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Supratik basu/Desktop/Tess4J-3.4.8-src/Tess4J/lib/lept4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Supratik basu/Desktop/Tess4J-3.4.8-src/Tess4J/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Supratik basu/Desktop/Tess4J-3.4.8-src/Tess4J/lib/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Supratik basu/Desktop/Tess4J-3.4.8-src/Tess4J/lib/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Supratik basu/Desktop/Tess4J-3.4.8-src/Tess4J/lib/logback-core-1.2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
