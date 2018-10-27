@@ -13,6 +13,10 @@
 2. SingleDigitOCR - performs OCR to extract a single digit
 3. SudokuSolver - tries to solve a given 2D sudoku matrix
 
+### Sample Input
+
+![input-sudoku-image](https://raw.githubusercontent.com/pmcarpan/SudokuTest/master/images/sudokubig.jpg)
+
 ### Sample Output:
 
 ```
